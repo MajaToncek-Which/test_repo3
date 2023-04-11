@@ -2,3 +2,5 @@ ovo je fajl koji će primati promjene iz svih grana
 
 
 inicijalno škrabanje koje će biti na masteru
+
+P - expect one change from Pero

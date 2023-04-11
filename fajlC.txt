@@ -2,3 +2,6 @@ ovo je fajl koji će primati promjene samo iz grane Ivo
 
 
 inicijalno škrabanje koje će biti na masteru
+
+
+P - change from Pero, but shouldnt be there
