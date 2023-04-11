@@ -6,3 +6,4 @@ inicijalno škrabanje koje će biti na masteru
 
 
 I - očekujem dvije promjene od Ive
+P - expect one change from Pero
