@@ -3,3 +3,6 @@ ovo je fajl koji će primati promjene iz svih grana
 I - prva promjena od Ive
 
 inicijalno škrabanje koje će biti na masteru
+
+
+I - očekujem dvije promjene od Ive
